@@ -49,3 +49,5 @@ Magic Wormhole packages are included in many operating systems.
 [![Packaging status](https://repology.org/badge/vertical-allrepos/magic-wormhole.svg)](https://repology.org/project/magic-wormhole/versions)
 
 To install it without an OS package, follow the [Installation docs](https://magic-wormhole.readthedocs.io/en/latest/welcome.html#installation).
+
+Testing jobs
